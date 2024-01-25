@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Vijay Murari Tiyyala, currently pursuing my master's degree in computer science in Johns Hopkins University, Baltimore.
--  I’m interested in Machine Learning, Data Science and integration of Human Language with ML models for language and speech translation.
--  I’m currently working on various research projects related to LLMs and applications in domains like Machine Translation, CodeGeneration, ClinicalNLP.
--  Please email me if you find a fit for me in the role or just want to collaborate on a project.
--  You can reach out to me on my linkedIn at https://www.linkedin.com/in/vijaymuraritiyyala/
+- 👋 Hi, I’m Vijay Murari Tiyyala, done my master's in computer science in Johns Hopkins University, Baltimore.
+-  I’m interested in Machine Learning, and NLP.
+-  I’m currently working on various research projects on LLMs and applications in domains like Alignment, Interpretability, Machine Translation, codegeneration, and ClinicalNLP.
+-  Please email me if you find a fit for me in the role or want to collaborate on a project.
+-  You can reach out to me on my LinkedIn at https://www.linkedin.com/in/vijaymuraritiyyala/
 -  and email at vijaymurari.tiyyala@gmail.com
 
 <!---
